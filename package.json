@@ -1,0 +1,20 @@
+{
+  "name": "ghactionstudy",
+  "version": "0.0.1",
+  "description": "",
+  "homepage": "https://github.com/kjunichi/ghactionstudy#readme",
+  "bugs": {
+    "url": "https://github.com/kjunichi/ghactionstudy/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kjunichi/ghactionstudy.git"
+  },
+  "license": "MIT",
+  "author": "",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
